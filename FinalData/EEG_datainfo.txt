@@ -1,0 +1,26 @@
+TimePoints=52000 
+Channels=19 
+BeginSweep[ms]=0.00 
+SamplingInterval[ms]=2.000 Bins/uV=1.000 Time=13:51:35
+
+EEG names:-
+  Fp1-A1 
+  Fp2-A2 
+  F3-A1 
+  F4-A2 
+  C3-A1 
+  C4-A2 
+  P3-A1 
+  P4-A2 
+  O1-A1 
+  O2-A2 
+  F7-A1 
+  F8-A2 
+  T3-A1 
+  T4-A2 
+  T5-A1 
+  T6-A2 
+  Fz-Aav 
+  Cz-Aav 
+  Pz-Aav
+  

@@ -1,0 +1,12 @@
+##Remove 700 samples from the begining of each data group while training  the classifier.
+Data Divisons
+
+Sub1 - 
+	Rest - 15 sec(+2 sec extra in the begining --> "first slide")
+	Actual Data - 15 sec
+	Rest - 20 sec
+Sub2 - 
+	(+3 sec extra in the begining --> "first slide")
+	Actual Data - 10 sec
+	Rest - 15 sec
+Sub3 -
